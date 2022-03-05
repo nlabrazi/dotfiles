@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = na.labrazi@gmail.com
+	name = nabil labrazi
